@@ -1,3 +1,3 @@
 # Django_pro1
 
-Studying Django and practicing a lot!
+Studying Django and practicing a lot!!
